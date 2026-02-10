@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Connie 
 
-<!--
-**Connie-cloud-svg/Connie-cloud-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning programming at the IYF Academy 😊😊.
+- I'm interested in Coding, Engineering, Robotics and their design. 
+- I'm looking to collaborate on open source projects that are beginner friendly.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Python
+- Java script
+- HTML/CSS
+- Machine Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Learning how to use GitHub and Git (link) — short description
+
+## How to Reach Me
+- Email: bosiboriconcepter501@gmail.com
+- LinkedIn: www.linkedin.com/in/concepter-bosibori-5362483b0
