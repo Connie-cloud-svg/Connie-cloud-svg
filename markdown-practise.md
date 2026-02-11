@@ -1,7 +1,8 @@
 ## My Learning Goals
 ### This Semester.
 **Markdown** first formatting language I need to learn on *GitHub* `very important`.
-Learn some additional helpful coding languages on [Link text](https://www.w3schools.com/)
+
+Learn some additional helpful coding languages on [w3schools](https://www.w3schools.com/)
 I want to learn: 
 - How to make Repositories.
 - How to code here.
