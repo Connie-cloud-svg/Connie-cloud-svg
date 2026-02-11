@@ -10,11 +10,14 @@ So far I have learnt how to make a commit and the steps are:
   1. **Stage your changes:** Choose which modified files to include in the commit.
   2. **Create the commit.** Run the commit command with a descriptive message.
   3. **Push to GitHub.** Upload your local commi to the remote repository.
-Tools I will use;
-   | Tool           | Purpose     | Link |
-   |----------------|-------------|------|
-   | VS Code        | Code Editor |      |
-   | GitHub Copilot |             |      |
+     
+##Tools I will use;
+
+   |Tool      | Purpose    | Link                           |
+   |----------|------------|--------------------------------|
+   |VS Code   | Editor     | https://code.visualstudio.com/ |
+   | Copilot  | Suggestions| https://github.com/copilot     |
+   
 Tasks;
   - [x] GitHub and Git Introduction.
   - [x] Creating a ReadMe profile.
