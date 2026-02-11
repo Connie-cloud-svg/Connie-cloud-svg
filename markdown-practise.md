@@ -6,10 +6,10 @@ Learn some additional helpful coding languages on [w3schools](https://www.w3scho
 I want to learn: 
 - How to make Repositories.
 - How to code here.
-So far I have learnt how to make a commit and the steps are,
-1. **Stage your changes:** Choose which modified files to include in the commit.
-2. **Create the commit.** Run the commit command with a descriptive message.
-3. **Push to GitHub.** Upload your local commi to the remote repository.
+So far I have learnt how to make a commit and the steps are:
+  1. **Stage your changes:** Choose which modified files to include in the commit.
+  2. **Create the commit.** Run the commit command with a descriptive message.
+  3. **Push to GitHub.** Upload your local commi to the remote repository.
 Tools I will use;
    | Tool           | Purpose         | Link                                            |
    |----------------|-----------------|-------------------------------------------------|
