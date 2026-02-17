@@ -1,7 +1,7 @@
 # Hi, I'm Connie 
 
 ## About Me
-- I'm currently learning programming at the IYF Academy 😊😊.
+- I'm currently taking programming classes at the IYF Academy 😊😊.
 - I'm interested in Coding, Engineering, Robotics and their design. 
 - I'm looking to collaborate on open source projects that are beginner friendly.
 
