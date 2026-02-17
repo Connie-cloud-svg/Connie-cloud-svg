@@ -25,7 +25,7 @@ Tasks;
   - [x] Creating a Repository.
   - [ ] Pulling repositories.
 ```python
-print(" Coding on GitHub is fun a little tiresome but way more fun.")
+print(" I GitHub as one of the most user friendly tools for a programmer or any developer.")
 ```
 > *Learning without practice is a waste of time.*
 ---
