@@ -35,8 +35,8 @@ print(" I find GitHub to be one of the most user friendly tools for a programmer
 ---
 I have tried some coding languages i.e:
 
- 1. Python on (w3schools.com/python/python_intro.asp)
- 2. HTML on (w3schools.com/html/default.asp)
+ 1. Python on [W3schools](w3schools.com/python/python_intro.asp)
+ 2. HTML on [W3schools](w3schools.com/html/default.asp)
 Looking forward to more learning 😁😁.
 
  Get more on my GITHUB account.
