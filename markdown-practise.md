@@ -4,7 +4,7 @@
 
 Also I'll learn some additional helpful coding languages on [w3schools](https://www.w3schools.com/)
 
-Here on GitHub, for a starter I want to learn: 
+Here on GitHub, for starters I want to learn: 
 - How to make Repositories.
 - How to code here.
 So far I have learnt how to make a commit and the steps are:
