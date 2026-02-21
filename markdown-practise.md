@@ -37,6 +37,7 @@ I have tried some coding languages i.e:
 
  1. Python on [W3schools](w3schools.com/python/python_intro.asp)
  2. HTML on [W3schools](w3schools.com/html/default.asp)
+    
 Looking forward to more learning 😁😁.
 
  Get more on my GITHUB account.
