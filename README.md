@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=connie-cloud-svg&show_icons=true&locale=en" alt="connie-cloud-svg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=connie-cloud-svg&" alt="connie-cloud-svg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Connie-cloud-svg&" alt="Connie-cloud-svg" /></p>
