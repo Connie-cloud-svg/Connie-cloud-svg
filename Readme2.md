@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Connie</h1>
 <h3 align="center">A passionate frontend developer from Kenya.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=connie-cloud-svg&label=Profile%20views&color=0e75b6&style=flat" alt="connie-cloud-svg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Connie-cloud-svg&label=Profile%20views&color=0e75b6&style=flat" alt="Connie-cloud-svg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=connie-cloud-svg" alt="connie-cloud-svg" /></a> </p>
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/concepter bosibori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="concepter bosibori" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Concepter Bosibori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="concepter bosibori" height="30" width="40" /></a>
 <a href="https://instagram.com/_its_just_connie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its_just_connie" height="30" width="40" /></a>
 </p>
 
