@@ -9,6 +9,13 @@
 
 - ⚡ Fun fact **I am great at design😎😎.**
 
+---
+
+<h1 align="left">Currently I'm Learning 🧾🧾</h1>
+
+- Javascript,CSS3 and HTML5
+- Terminal commands 💻
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Concepter Bosibori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="concepter bosibori" height="30" width="40" /></a>
