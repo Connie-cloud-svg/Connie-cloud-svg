@@ -1,4 +1,5 @@
-# Hi, I'm Connie 
+<h1 align="center">Hi 👋, I'm Connie</h1>
+<h3 align="center">A passionate frontend developer from Kenya.</h3>
 
 ## About Me
 - I'm currently taking programming classes at the IYF Academy 😊😊.
