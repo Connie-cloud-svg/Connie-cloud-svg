@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am great at design😎😎.**
 
-- 🧐 Here is (My Portfolio)
+- 🧐 Here is (My Portfolio)[https://github.com/Connie-cloud-svg/iyf-s10-week-01-Connie-cloud-svg]
 
 ---
 
