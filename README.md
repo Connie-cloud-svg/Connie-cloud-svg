@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Connie</h1>
-<h3 align="center">A passionate frontend developer from Kenya 🇰🇪</h3>
+<h3 align="center">A passionate website developer from Kenya 🇰🇪</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a frontend developer passionate about creating beautiful, user-friendly web experiences. I love collaborating on beginner-friendly open source projects and continuously expanding my knowledge in web development and AI.
+I'm a website developer passionate about creating beautiful, user-friendly web experiences. I love collaborating on beginner-friendly open source projects and continuously expanding my knowledge in web development and AI.
 
 - 👯 **Looking to collaborate on:** Beginner-friendly open source projects
 - 🤝 **Looking for help with:** Understanding coding concepts and AI applications
