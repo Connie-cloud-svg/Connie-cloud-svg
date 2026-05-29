@@ -36,11 +36,13 @@ I'm a website developer passionate about creating beautiful, user-friendly web e
 ## 🛠️ Skills & Languages
 
 **Frontend Technologies:**
-- HTML5 • CSS3 • JavaScript
+- HTML5 • CSS3 • JavaScript - React 
 
 **Tools & Platforms:**
 - Git & GitHub
 - Terminal/Command Line
+- Vite
+- Node.js
 
 ---
 
