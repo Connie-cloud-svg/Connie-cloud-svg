@@ -20,7 +20,7 @@ I'm a website developer passionate about creating beautiful, user-friendly web e
 - 🤝 **Looking for help with:** Understanding coding concepts and AI applications
 - 🎨 **Fun fact:** I'm great at design! 😎
 - 📫 **Reach me at:** bosiboriconcepter501@gmail.com
-- 🧐 **Check out my work:** [My Portfolio](https://connie-cloud-svg.github.io/iyf-s10-week-02-Connie-cloud-svg/)
+- 🧐 **Check out my work:** [My Portfolio](https://connie-cloud-svg.github.io/)
 
 ---
 
