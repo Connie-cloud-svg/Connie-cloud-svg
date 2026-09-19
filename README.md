@@ -24,12 +24,11 @@ I'm a website developer passionate about creating beautiful, user-friendly web e
 
 ---
 
-## 🧾 Currently Learning
+## Currently Learning.
 
-- JavaScript, CSS3, and HTML5
-- Terminal commands & Git 💻
 - Web development best practices
 - Exploring AI applications in web development
+- Robotics and automation.
 
 ---
 
